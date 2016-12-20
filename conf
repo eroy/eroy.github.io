@@ -95,7 +95,7 @@ else
 	fi
 
 	echo "Version type: old"
-	. /usr/bin/conf_tplink_old.cfg ${IP} ${PASSWORD}
+	./conf_tplink_old.cfg ${IP} ${PASSWORD}
 
 fi
 
